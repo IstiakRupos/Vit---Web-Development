@@ -1,0 +1,45 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    display: flex;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+span {
+    color: tomato;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bolder;
+    color: turquoise;
+}
+
+p {
+    text-align: justify;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: black;
+    color: wheat;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+
+.text {
+    width: 50%;
+    margin-left: 10px;
+}
+
+.image {
+    width: 40%;
+    margin-top: 120px;
+    margin-left: 50px;
+}

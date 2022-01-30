@@ -1,0 +1,18 @@
+table {
+    width: 300px;
+    height: 100px;
+    border-collapse: collapse;
+}
+
+.cap {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+td,th {
+    border: 2px solid black;
+}
+
+tr {
+    text-align: center;
+}
